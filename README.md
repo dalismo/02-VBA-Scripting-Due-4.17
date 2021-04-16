@@ -1,7 +1,7 @@
 # Stock Analysis - HODL
 
 ## Background on Homework
-We were given an excel file containing stock information from years 2014, 2015 and 2016 where through writing VBA scripts we needed to retrieve certain data points to calculate the yearly change, percent change and total stock volume for each ticker.
+We were given an excel file with stock information from years 2014, 2015 and 2016 where through writing VBA scripts containing loops we needed to retrieve certain data points to calculate the yearly change, percent change and total stock volume for each ticker.
 
 There was also conditional formatting that needed to be applied on the retrieved data. A positive yearly change for a ticker needed to be represented as green while a negative change needed to be in red
 
