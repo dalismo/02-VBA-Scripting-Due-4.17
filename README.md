@@ -1,5 +1,4 @@
-# Homework Name
-> Stock Analysis - HODL
+# Stock Analysis - HODL
 
 ## Background on Homework
 We were given data containing stock information from years 2014 across 2016 where through writing VBA scripts we needed to retrieve certain data points to calculate the yearly change, percent change and total stock volume for each ticker.
