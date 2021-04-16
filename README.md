@@ -12,7 +12,7 @@ There was also conditional formatting that needed to be applied on the retrieved
 ![image](https://user-images.githubusercontent.com/78628287/115043025-0aeb1080-9ea2-11eb-94bd-fb8d047ce029.png)
 
 ## 2016 Screenshot
-![image](https://user-images.githubusercontent.com/78628287/115042411-6ff23680-9ea1-11eb-9c07-7bc081620e2d.png)
+![image](https://user-images.githubusercontent.com/78628287/115043823-e7749580-9ea2-11eb-805a-9b39fac310c5.png)
 
 ## Opinion
 At first this project seemed like a challenge but once I started to understand the logic behind it made sense.
