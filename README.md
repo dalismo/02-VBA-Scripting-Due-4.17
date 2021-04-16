@@ -7,10 +7,10 @@ We were given data containing stock information from years 2014 across 2016 wher
 There was also conditional formatting that needed to be applied on the retrieved data. A positive yearly change for a ticker needed to be represented as green while a negative change needed to be in red
 
 ## 2014 Screenshot
-![image](https://user-images.githubusercontent.com/78628287/115042348-610b8400-9ea1-11eb-8db5-ca8afffea21d.png)
+![image](https://user-images.githubusercontent.com/78628287/115042992-0292d580-9ea2-11eb-9eea-87d513f24d58.png)
 
 ## 2015 Screenshot
-![image](https://user-images.githubusercontent.com/78628287/115042530-94e6a980-9ea1-11eb-8e78-58def4467c62.png)
+![image](https://user-images.githubusercontent.com/78628287/115043025-0aeb1080-9ea2-11eb-94bd-fb8d047ce029.png)
 
 ## 2016 Screenshot
 ![image](https://user-images.githubusercontent.com/78628287/115042411-6ff23680-9ea1-11eb-9c07-7bc081620e2d.png)
